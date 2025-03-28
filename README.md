@@ -16,7 +16,7 @@ Delete books from the catalog.
 
 This system is implemented in Java and provides a simple text-based interface for managing the library's book records.
 
-Features
+## Features
 Add a Book: Adds a new book to the library with details such as ID, title, author, genre, and availability status.
 
 View All Books: Displays a list of all books in the library.
