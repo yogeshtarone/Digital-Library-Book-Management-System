@@ -1,6 +1,6 @@
-## Digital Library Book Management System
+# Digital Library Book Management System
 
-# Overview
+## Overview
 
 The Digital Library Book Management System is a simple Java application designed to help librarians manage a collection of books. The system allows users to:
 
